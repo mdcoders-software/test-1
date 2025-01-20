@@ -4,4 +4,6 @@
 ### Github:
 ```
 git clone url-repo
+
+git checkout -b feature/login
 ```
