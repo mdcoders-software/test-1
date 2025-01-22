@@ -14,4 +14,4 @@ Línea de Oscar. Angular es un framework que se utiliza para frontend
 
 Línea de Alex, haciendo cambios en la rama feature/login
 
-Línea compartida.
+Línea compartida. Fernando escribiendo cambios.
