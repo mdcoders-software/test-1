@@ -14,4 +14,4 @@ Línea de Oscar. Angular es un framework que se utiliza para frontend
 
 Línea de Alex, haciendo cambios en la rama feature/login
 
-Línea compartida. Fernando escribiendo cambios. Líneada creada por el profe fernando, aprendiendo el curso de Git & GitHub. Temas: repositorios y ramas remotas.
+Línea compartida. Oscar escribiendo cambios. Líneada creada por el profe fernando, aprendiendo el curso de Git & GitHub. Temas: repositorios y ramas remotas.
